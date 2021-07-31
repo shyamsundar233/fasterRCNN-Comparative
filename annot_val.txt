@@ -1,0 +1,14 @@
+/content/fasterRCNN-Comparative/val/1c83d79add8d8797.jpg,1,1,1023,375,Keyboard
+/content/fasterRCNN-Comparative/val/1c83d79add8d8797.jpg,627,360,979,689,Mouse
+/content/fasterRCNN-Comparative/val/64e9427c30a2041e.jpg,505,298,832,557,Mouse
+/content/fasterRCNN-Comparative/val/64e9427c30a2041e.jpg,1,11,398,240,Keyboard
+/content/fasterRCNN-Comparative/val/64e9427c30a2041e.jpg,130,1,525,145,Monitor
+/content/fasterRCNN-Comparative/val/b36d4b8de110aeaf.jpg,112,14,668,430,Monitor
+/content/fasterRCNN-Comparative/val/b36d4b8de110aeaf.jpg,257,383,900,606,Keyboard
+/content/fasterRCNN-Comparative/val/c19914ea74544c65.jpg,149,2,978,602,Monitor
+/content/fasterRCNN-Comparative/val/c19914ea74544c65.jpg,312,613,774,754,Keyboard
+/content/fasterRCNN-Comparative/val/c19914ea74544c65.jpg,890,604,1024,716,Mouse
+/content/fasterRCNN-Comparative/val/a6f2e14f97290078.jpg,1,1,442,683,Monitor
+/content/fasterRCNN-Comparative/val/a6f2e14f97290078.jpg,217,163,727,683,Keyboard
+/content/fasterRCNN-Comparative/val/a6f2e14f97290078.jpg,668,35,930,183,Mouse
+/content/fasterRCNN-Comparative/val/ccba0ad9033511f6.jpg,148,120,797,495,Keyboard
