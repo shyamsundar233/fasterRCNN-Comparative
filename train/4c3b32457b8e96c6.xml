@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>4c3b32457b8e96c6.jpg</filename>
+	<path>D:\Google_colab\Comparative-studies\fasterRCNN\Dataset\train\4c3b32457b8e96c6.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>682</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Mouse</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>216</xmin>
+			<ymin>161</ymin>
+			<xmax>803</xmax>
+			<ymax>471</ymax>
+		</bndbox>
+	</object>
+</annotation>
